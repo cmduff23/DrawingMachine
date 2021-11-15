@@ -1,7 +1,23 @@
-html, body {
+html {
   margin: 0;
-  padding: 0;
+  padding:0;
 }
+
+body{
+  margin: 100px auto 0 auto;
+width: 80%;
+text-align: center;
+}
+
 canvas {
   display: block;
+  border: 5px solid indigo;
+  margin:auto;
+}
+
+.title{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+  color:black;
+  padding: 20px;
 }
