@@ -1,7 +1,14 @@
 html, body {
   margin: 0;
-  padding: 0;
+  padding: 20px;
 }
 canvas {
   display: block;
+}
+
+.title{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+  color:#610076;
+  padding: 20px;
 }
